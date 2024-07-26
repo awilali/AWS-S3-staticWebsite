@@ -1,6 +1,6 @@
 # AWS-S3-staticWebsite
 
-Migrate an existing website to static website hosting on Amazon S3 to improve reliability.
+Using S3 bucket to host a static website.
 
 ![overview](https://github.com/awilali/AWS-S3-staticWebsite/assets/60300580/58dd750c-514d-4339-81a6-188dc8f02fa5)
 
